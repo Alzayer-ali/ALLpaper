@@ -21,11 +21,21 @@ body{
     height: 1%;
     border-radius: 17px;
     margin-bottom: 1%;
+    transition: 0.4s;
 
+}
+#green a img:hover{
+    transform: scale(1.1, 1.1);
+    
 }
 
 #green2 a img{
     width: 50%;
     border-radius: 17px;
     margin: 1%;
+    transition: 0.4s;
+}
+#green2 a img:hover{
+    transform: scale(1.1, 1.1);
+    
 }
